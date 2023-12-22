@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 
-export class Pure extends PureComponent {
+ class Pure extends PureComponent {
 constructor(props) {
   super(props)
 
